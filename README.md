@@ -10,7 +10,7 @@ Linear Algebra is the computational engine for many of the Machine Learning algo
 
 * Gilbert Strang. Introduction to Linear Algebra. Wellesley-Cambridge Press, 4th edition edition, 2009.[Dropbox with notes](https://www.dropbox.com/sh/athm5t66eznou0u/AACZwAlH9SxRxZ_CuDe9hRKKa?dl=0). The most famous textbook in the area, it goes together with Prof. Strang’s [video lectures](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm).
 
-* Howard Anton. Elementary Linear Algebra. Wiley, all edition edition, 2010. This book does not assume any background knowledge, however, it covers the key topics to be used in machine learning.
+* Howard Anton. Elementary Linear Algebra. Wiley, all edition edition, 2010. [Dropbox with notes](https://www.dropbox.com/sh/1qgxg6kkuzx944z/AACgqVOQPJG42xASqIfIhCGMa?dl=0). This book does not assume any background knowledge, however, it covers the key topics to be used in machine learning.
 
 ### Probability and Statistics 
 
