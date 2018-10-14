@@ -33,7 +33,7 @@ The contents and DoD of each parts would covers by:
 
 ## Reference
 
-1. [Numpy tutorial](https://github.com/rougier/numpy-tutorial) 
+1. [Numpy tutorial](https://github.com/rougier/numpy-tutorial) with plenty of refer to be added on later.
 2. [Numpy 100 exercices](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html) 
 3. [Numpy Manual: Linear Algebra](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html?highlight=vector#)
 4. [Numpy Manual: Trigonometry](https://docs.scipy.org/doc/numpy/reference/routines.math.html#trigonometric-functions)
