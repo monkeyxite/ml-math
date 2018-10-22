@@ -37,3 +37,4 @@ The contents and DoD of each parts would covers by:
 2. [Numpy 100 exercices](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html) 
 3. [Numpy Manual: Linear Algebra](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html?highlight=vector#)
 4. [Numpy Manual: Trigonometry](https://docs.scipy.org/doc/numpy/reference/routines.math.html#trigonometric-functions)
+5. [AI Notebook](http://www.huaxiaozhuan.com/)
