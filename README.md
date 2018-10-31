@@ -38,3 +38,5 @@ The contents and DoD of each parts would covers by:
 3. [Numpy Manual: Linear Algebra](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html?highlight=vector#)
 4. [Numpy Manual: Trigonometry](https://docs.scipy.org/doc/numpy/reference/routines.math.html#trigonometric-functions)
 5. [AI Notebook](http://www.huaxiaozhuan.com/)
+6. [Scipy lecture notes](https://www.scipy-lectures.org/)
+
