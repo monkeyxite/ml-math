@@ -39,4 +39,5 @@ The contents and DoD of each parts would covers by:
 4. [Numpy Manual: Trigonometry](https://docs.scipy.org/doc/numpy/reference/routines.math.html#trigonometric-functions)
 5. [AI Notebook](http://www.huaxiaozhuan.com/)
 6. [Scipy lecture notes](https://www.scipy-lectures.org/)
-
+7. [scipy17 pandas workshop](https://github.com/chendaniely/scipy-2017-tutorial-pandas)
+8. [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io)
